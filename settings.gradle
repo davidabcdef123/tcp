@@ -1,0 +1,5 @@
+rootProject.name = 'com.david.rmi'
+include 'com.rmi.service'
+include 'com.rmi.client'
+include 'com.david.tcp'
+
